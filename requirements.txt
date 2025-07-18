@@ -1,1 +1,8 @@
+langchain=0.1.0
+langchain-openai=0.1.0
+langchain-experimental=0.0.50
+openai=1.0.0
+python-dotenv=1.0.0
+qrcode[pil]=7.4.2
+pandas=2.0.0
 
